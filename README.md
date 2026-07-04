@@ -1,26 +1,34 @@
-# Calculator
+# 🧮 Calculator
 
-A simple calculator built with Python.
+A responsive calculator website built with HTML.
 
-## Features
+## ✨ Features
 
-- Addition
-- Subtraction
-- Multiplication
-- Division
+- Clean user interface
+- Responsive layout
+- Basic calculator design
 
-## Technologies
+## 🛠️ Technologies
 
-- Python
+- HTML5
+- CSS3
 
-## How to Run
+## 🚀 Run
 
-```bash
-python main.py
-```
+Open `index.html` in your browser.
 
-## Future Improvements
+## 📚 What I Learned
 
-- GUI version
-- Scientific calculator
-- History support
+- HTML Forms
+- Layout Design
+- Responsive Web Design
+
+## 🌱 Future Improvements
+
+- JavaScript calculations
+- Keyboard support
+- Dark mode
+
+---
+
+Made with ❤️ by Sevinch
